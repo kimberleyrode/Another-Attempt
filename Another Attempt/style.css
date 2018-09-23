@@ -1,0 +1,15 @@
+.Header {
+    width: 600px;
+    height: 400px; 
+    background-image: url(27mm/_IMG_5147d.jpg);
+    background-size: contain; 
+    text-align: center;
+}
+
+.contact {
+    background-color: darkgray;
+    color: aquamarine;
+}
+
+
+}
